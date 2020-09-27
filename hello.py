@@ -4,4 +4,4 @@ def func():
 
 func()
 
-prin("hehe")
+print("hehe")

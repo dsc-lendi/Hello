@@ -1,7 +1,2 @@
-def func (:
-  print(hello)
-
-
-func()
-
+print(hello)
 prin("hehe")

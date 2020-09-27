@@ -5,3 +5,5 @@ def func ()
 func()
 
 print("hehe")
+
+print("hello everyone")
